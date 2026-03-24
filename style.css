@@ -1,0 +1,613 @@
+.desktop {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    width: 100%;
+    min-width: 1440px;
+    min-height: 1479px;
+    position: relative;
+}
+
+.desktop .frame {
+    position: absolute;
+    top: 40px;
+    left: 160px;
+    width: 40px;
+    height: 65px;
+    display: flex;
+}
+
+.desktop .navbar-wrapper {
+    width: 94px;
+    height: 89px;
+    display: flex;
+}
+
+.desktop .navbar {
+    margin-top: 81px;
+    width: 1120px;
+    height: 32px;
+    position: relative;
+    background-color: #48e0f145;
+}
+
+.desktop .gi-y-nam {
+    left: 17px;
+    position: absolute;
+    top: calc(50.00% - 8px);
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .gi-y-n {
+    left: calc(50.00% - 420px);
+    position: absolute;
+    top: calc(50.00% - 8px);
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    top: 7px;
+    left: 271px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .collection {
+    position: absolute;
+    top: 9px;
+    left: 389px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .ph-ki-n {
+    position: absolute;
+    top: calc(50.00% - 8px);
+    left: 529px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .campaign-runway {
+    position: absolute;
+    top: 8px;
+    left: 683px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .shoes-for-decor {
+    position: absolute;
+    top: 8px;
+    left: 892px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .LI-n-h {
+    position: absolute;
+    top: 11px;
+    left: 1051px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .div {
+    top: 8px;
+    left: 78px;
+    position: absolute;
+    width: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+    top: 8px;
+    left: 820px;
+    position: absolute;
+    width: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+    top: 8px;
+    left: 589px;
+    position: absolute;
+    width: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+    top: 9px;
+    left: 466px;
+    position: absolute;
+    width: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+    top: 8px;
+    left: 202px;
+    position: absolute;
+    width: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .image-wrapper {
+    position: absolute;
+    top: 40px;
+    left: calc(50.00% - 56px);
+    width: 112px;
+    height: 81px;
+    display: flex;
+}
+
+.desktop .image {
+    margin-top: -15px;
+    width: 122px;
+    height: 96px;
+    aspect-ratio: 1.27;
+    object-fit: cover;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1440px;
+    height: 32px;
+    background-color: #3c21b6;
+}
+
+.desktop .home {
+    position: absolute;
+    top: 56px;
+    left: 1204px;
+    width: 32px;
+    height: 32px;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.desktop .user {
+    position: absolute;
+    top: 56px;
+    left: 1248px;
+    width: 32px;
+    height: 32px;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.desktop .frame-2 {
+    position: absolute;
+    top: 56px;
+    left: 1160px;
+    width: 32px;
+    height: 32px;
+    background-image: url(./img/magnifiying-glass-93642-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.desktop .frame-3 {
+    position: absolute;
+    top: 153px;
+    left: 160px;
+    width: 1120px;
+    height: 367px;
+    background-color: #ffffff;
+}
+
+.desktop .img {
+    position: absolute;
+    top: 51px;
+    left: 107px;
+    width: 520px;
+    height: 266px;
+    aspect-ratio: 1.96;
+    object-fit: cover;
+}
+
+.desktop .khuy-n-m-i-c-h-n {
+    position: absolute;
+    top: 51px;
+    left: 680px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .sale-of {
+    position: absolute;
+    top: 131px;
+    left: 766px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .pre-ord-now-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 207px;
+    left: 772px;
+    background-color: #c34e53;
+}
+
+.desktop .pre-ord-now {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+
+.desktop .image-2 {
+    position: absolute;
+    top: 536px;
+    left: 224px;
+    width: 226px;
+    height: 194px;
+    aspect-ratio: 1.16;
+    object-fit: cover;
+}
+
+.desktop .image-3 {
+    position: absolute;
+    top: 536px;
+    left: 480px;
+    width: 225px;
+    height: 192px;
+    aspect-ratio: 1.17;
+    object-fit: cover;
+}
+
+.desktop .image-4 {
+    position: absolute;
+    top: 553px;
+    left: 735px;
+    width: 225px;
+    height: 159px;
+    aspect-ratio: 1.42;
+    object-fit: cover;
+}
+
+.desktop .image-5 {
+    position: absolute;
+    top: 555px;
+    left: 991px;
+    width: 225px;
+    height: 152px;
+    aspect-ratio: 1.48;
+    object-fit: cover;
+}
+
+.desktop .p {
+    position: absolute;
+    top: 746px;
+    left: 999px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .element {
+    left: 1040px;
+    position: absolute;
+    top: 788px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .span {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+
+.desktop .text-wrapper-6 {
+    text-decoration: line-through;
+}
+
+.desktop .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 813px;
+    left: 1076px;
+}
+
+.desktop .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #c34e53;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 813px;
+    left: 278px;
+}
+
+.desktop .THE-GENT-WOLF {
+    position: absolute;
+    top: 746px;
+    left: 744px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .element-2 {
+    left: 778px;
+    position: absolute;
+    top: 788px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .frame-5 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 813px;
+    left: 808px;
+}
+
+.desktop .THEWOLF-MINIMAL {
+    position: absolute;
+    top: 746px;
+    left: 476px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+    left: 550px;
+    position: absolute;
+    top: 788px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .THE-GENT-WOLF-2 {
+    position: absolute;
+    top: 746px;
+    left: 217px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .element-3 {
+    left: 234px;
+    position: absolute;
+    top: 788px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .GI-i-THI-u-trong-th {
+    position: absolute;
+    top: 992px;
+    left: 160px;
+    width: 312px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-9 {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+}
+
+.desktop .text-wrapper-10 {
+    font-size: 20px;
+}
+
+.desktop .text-wrapper-11 {
+    font-size: 19.5px;
+}
+
+.desktop .CH-NH-s-CH-ch-nh-s {
+    position: absolute;
+    top: 992px;
+    left: 640px;
+    width: 257px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+}
+
+.desktop .text-wrapper-13 {
+    position: absolute;
+    top: 992px;
+    left: 928px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-14 {
+    position: absolute;
+    top: 1040px;
+    left: 927px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .text-wrapper-15 {
+    position: absolute;
+    top: 1088px;
+    left: 928px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
